@@ -1,4 +1,11 @@
-# cob8049429023bc6b69a46bae
+# Twitter Clone
+
+This is a simple twitter clone that uses data to generate a feed, allows you to like, retweet and view comments. This was made along with Scrimba's interactive javascript course.
+
+I have added the ability to write a new comment, save tweets data to local storage and delete the user's tweets as well.
+
+To view, open this with a live server on VS Code. 
+or [Click Here!](https://delightful-daffodil-439d4f.netlify.app/)
 
 ## About Scrimba
 
