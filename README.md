@@ -4,6 +4,14 @@ This is a simple twitter clone that uses data to generate a feed, allows you to 
 
 I have added the ability to write a new comment, save tweets data to local storage and delete the user's tweets as well.
 
+It incorporates vanilla HTML/CSS and javascript.
+It uses concepts such as elements with data sets to improve performance, as the site only has one event listener which can handle all events. The UUIDs are passed along with the event information to identify the object that has recieved an event and must be changed.
+
+Icons are generated via Font Awesome CDN.  
+UUIDs are generated via the external UID github [uuidv4](https://github.com/thenativeweb/uuidv4).  
+Hosted on Netlify.
+
+
 To view, open this with a live server on VS Code. 
 or [Click Here!](https://delightful-daffodil-439d4f.netlify.app/)
 
